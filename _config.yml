@@ -1,4 +1,5 @@
 title: Menuli Jayasinghe
 logo: /assets/img/menu2.jpg
 description: Data Science Enthusiast
+gem "jekyll-theme-minima"
 theme: jekyll-theme-minima
