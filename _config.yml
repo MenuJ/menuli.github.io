@@ -1,7 +1,5 @@
 title: Menuli Jayasinghe
 logo: /assets/img/menu2.jpg
 description: Data Science Enthusiast
-source "https://rubygems.org"
-gem "github-pages", "~> 200" # Use the correct version for your setup
-gem "jekyll-theme-minima"
+theme: minima
 
