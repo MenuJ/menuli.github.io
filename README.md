@@ -1,4 +1,4 @@
-# Profile
+
 
  I am a final year undergraduate in Applied Data Science Communication. A self-motivated and experience-seeking undergraduate with a strong academic background, proficient in the English language, with prominent communication skills, and creative writing abilities. A team player who is eager and optimistic about gaining opportunities to learn and acquire experience, with a strong interest in AI, big data, BI and predictive analytics, I'm excited to apply my skills to real-world problems and make an impact in the data-driven world. 
 
